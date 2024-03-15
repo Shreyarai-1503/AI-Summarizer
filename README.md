@@ -1,8 +1,5 @@
-# React + Vite
+# AI-Summarizer
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+React + Vite + RapidApi
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![Work1](https://github.com/Shreyarai-1503/AI-Summarizer/assets/130877780/5ae210bb-ffeb-42f2-b483-363a6a779367)
